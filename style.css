@@ -132,10 +132,13 @@ div{
 }
 
 .btn-sf3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 24px;
     height: 24px;
     margin-left: 19px;
-    padding: 0px 6px;
+    padding: 2px 4px;
     margin-top: -5px;
     text-align: center;
     font-size: 21px;
